@@ -3,4 +3,4 @@ The Implementation of DRFNet Network for iris recognition. The Network is refere
 If you have any questions, please feel free to communicate.
 
 # Notice
-The DET_curve.png was drawn after training with improved DRFNet. And the test data is CASIA-Iris-Lamp, which is not involved in training.
+The DET_curve.png was drawn after training with improved DRFNet using test data. And the Mask Iris images were obtained by independent network branch. The test data set is CASIA-Iris-Lamp, and this set is not involved in training.
